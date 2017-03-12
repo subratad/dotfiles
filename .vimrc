@@ -4,6 +4,7 @@ syntax on
 colorscheme moriarty_mod
 set background=dark
 set showmatch
+set so=7
 set hlsearch
 set ruler
 set incsearch
@@ -12,5 +13,8 @@ set ai
 set si
 set wrap
 set smarttab
+set shiftwidth=4
+set tabstop=4
 set number
 set showcmd
+set mouse=a
