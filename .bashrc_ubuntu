@@ -1,0 +1,24 @@
+#############################
+### ENVIRONMENT VARIABLES ###
+#############################
+
+PS1="\n\[\033[0;31m\][\u@\H:\033[0;32m \$PWD]\n$\[\e[0m\] "
+
+###############
+### ALIASES ###
+###############
+
+alias ll="ls -altr --color=auto"
+alias u="cd ../"
+alias b="cd -"
+alias q="exit"
+alias install="sudo apt -y install"
+alias remove="sudo apt -y remove"
+alias update="sudo apt -y clean all; sudo apt -y update"
+alias upgrade="sudo apt -y clean all; sudo apt -y full-upgrade"
+alias autoremove="sudo apt -y autoremove"
+alias search="sudo apt search"
+alias tmux="tmux -2"
+
+
+[[ $TERM = "xterm-256color" ]] && { tmux && exit 0; }
