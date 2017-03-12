@@ -1,0 +1,38 @@
+xterm*termName:		xterm-256color
+Xterm*saveLines:	9999999
+xterm*faceName: 	Liberation Mono:size=12:antialias=true
+xterm*font: 		7x13
+xterm*visualBell:	true
+xterm*rightScrollBar:	true
+xterm*ScrollBar:	true
+xterm*scrollTtyOutput:	false
+XTerm*geometry:		85x50
+
+! Colors for xterm
+xterm*background:	#232323
+xterm*foreground:	#f7f7f7
+xterm*cursorColor:  	#b3b3b3
+! Black
+xterm*color0:		#2a2a2a
+xterm*color8:		#393939
+! Red
+xterm*color1:		#da4939
+xterm*color9:		#ff6c5c
+! Green
+xterm*color2:		#519f50
+xterm*color10:		#a5c261
+! Yellow
+xterm*color3:		#fad07a
+xterm*color11:		#ffefbf
+! Blue
+xterm*color4:		#4c8ea1
+xterm*color12:		#6bc1d0
+! Magenta
+xterm*color5:		#956d9d
+xterm*color13:		#c18fcb
+! Cyan
+xterm*color6:		#7c9aa6
+xterm*color14:		#8fadbf
+! White
+xterm*color7:		#f2f2f2
+xterm*color15:		#eaeaea

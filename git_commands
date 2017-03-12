@@ -1,0 +1,5 @@
+git add <filename>
+git commit -m <comment>
+git remote add origin <repo url>
+git remote -v
+git push origin master
