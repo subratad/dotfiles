@@ -25,8 +25,8 @@ xterm*color10:		#8bc701
 xterm*color3:		#fad07a
 xterm*color11:		#ffefbf
 ! Blue
-xterm*color4:		#1357a4
-xterm*color12:		#207a89
+xterm*color4:		#2286f7
+xterm*color12:		#00d5cb
 ! Magenta
 xterm*color5:		#956d9d
 xterm*color13:		#c18fcb
